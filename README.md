@@ -24,7 +24,7 @@ A lightweight ECS-based scene &amp; scene management library for Starlet project
 include(FetchContent)
 
 FetchContent_Declare(starlet_scene
-  GIT_REPOSITORY https://github.com/masonlet/starlet-scene.git 
+  GIT_REPOSITORY https://github.com/starlet-libs/scene.git
   GIT_TAG main
 )
 FetchContent_MakeAvailable(starlet_scene)
